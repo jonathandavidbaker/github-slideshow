@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The Chiefs just won the Super Bowl!
 Use the left arrow to go back!
